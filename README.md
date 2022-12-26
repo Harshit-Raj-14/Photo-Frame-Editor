@@ -1,7 +1,6 @@
 # Photo-Frame-Editor
-<h1>Photo Frame Editor</h1>
 
-link - 
+link - https://harshit-raj-14.github.io/Photo-Frame-Editor/
 
 Description: A simple photo frame editor website.
 Features :
